@@ -1,0 +1,5 @@
+---
+applications:
+- name: travisdemo
+  memory: 16M
+  buildpack: staticfile_buildpack
