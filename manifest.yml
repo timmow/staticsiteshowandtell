@@ -1,5 +1,5 @@
 ---
 applications:
-- name: travisdemo
+- name: travisdemoshowandtell
   memory: 16M
   buildpack: staticfile_buildpack
